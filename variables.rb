@@ -41,7 +41,7 @@ puts myStr
 puts myStr.length # output:  12
 
 # concat or + for string concatenation
-
+# + , << , space, contact
 puts myStr + '!'
 
 str1 = 'hello'
